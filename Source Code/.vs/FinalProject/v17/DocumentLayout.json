@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|d:\\winforms\\dnc1921_finalproject\\source code\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|d:\\winforms\\dnc1921_finalproject\\source code\\finalproject\\form\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|d:\\winforms\\dnc1921_finalproject\\source code\\finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\ui\\uc_bcdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ui\\uc_bcdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\ui\\uc_bcdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ui\\uc_bcdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\ui\\uc_dmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ui\\uc_dmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\report_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\report_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\hoadonbandataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\hoadonbandataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\hoadondataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\hoadondataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\ui\\uc_dmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ui\\uc_dmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\hoadonreportdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\hoadonreportdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\form\\form_thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form\\form_thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\chuoiketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\chuoiketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\form\\form_thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form\\form_thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\ui\\uc_dmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ui\\uc_dmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 86,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 372,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Form1.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Form1.cs",
+              "RelativeToolTip": "FinalProject\\Form1.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAArwDoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:28:07.948Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Program.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Program.cs",
+              "RelativeToolTip": "FinalProject\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:49:54.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Form\\Form_DangNhap.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Form\\Form_DangNhap.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Form\\Form_DangNhap.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Form\\Form_DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:49:36.381Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "uc_BCDoanhThu.cs",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_BCDoanhThu.cs",
+              "RelativeDocumentMoniker": "FinalProject\\UI\\uc_BCDoanhThu.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_BCDoanhThu.cs",
+              "RelativeToolTip": "FinalProject\\UI\\uc_BCDoanhThu.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIAywBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:37:20.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "uc_BCDoanhThu.cs [Design]",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_BCDoanhThu.cs",
+              "RelativeDocumentMoniker": "FinalProject\\UI\\uc_BCDoanhThu.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Final_Project_WinForm\\FinalProject\\UI\\uc_BCDoanhThu.cs [Design]",
+              "RelativeToolTip": "..\\Final_Project_WinForm\\FinalProject\\UI\\uc_BCDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T19:34:50.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "uc_DMHangHoa.cs",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_DMHangHoa.cs",
+              "RelativeDocumentMoniker": "FinalProject\\UI\\uc_DMHangHoa.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_DMHangHoa.cs",
+              "RelativeToolTip": "FinalProject\\UI\\uc_DMHangHoa.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAvwCYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:21:19.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HOADONBANDataSet.xsd",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\HOADONBANDataSet.xsd",
+              "RelativeDocumentMoniker": "FinalProject\\HOADONBANDataSet.xsd",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\HOADONBANDataSet.xsd",
+              "RelativeToolTip": "FinalProject\\HOADONBANDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-12T18:04:43.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HoaDonDataSet.xsd",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\HoaDonDataSet.xsd",
+              "RelativeDocumentMoniker": "FinalProject\\HoaDonDataSet.xsd",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\HoaDonDataSet.xsd",
+              "RelativeToolTip": "FinalProject\\HoaDonDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-12T18:00:51.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "chuoiketnoi.cs",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\chuoiketnoi.cs",
+              "RelativeDocumentMoniker": "FinalProject\\chuoiketnoi.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\chuoiketnoi.cs",
+              "RelativeToolTip": "FinalProject\\chuoiketnoi.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:44:57.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HoaDonReportDataSet.xsd",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\HoaDonReportDataSet.xsd",
+              "RelativeDocumentMoniker": "FinalProject\\HoaDonReportDataSet.xsd",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\HoaDonReportDataSet.xsd",
+              "RelativeToolTip": "FinalProject\\HoaDonReportDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-12T13:02:07.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report_HoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Report_HoaDon.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Report_HoaDon.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Final_Project_WinForm\\FinalProject\\Report_HoaDon.cs [Design]",
+              "RelativeToolTip": "..\\Final_Project_WinForm\\FinalProject\\Report_HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:56:43.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "uc_DMThanhToan.cs [Design]",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_DMThanhToan.cs",
+              "RelativeDocumentMoniker": "FinalProject\\UI\\uc_DMThanhToan.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Final_Project_WinForm\\FinalProject\\UI\\uc_DMThanhToan.cs [Design]",
+              "RelativeToolTip": "..\\Final_Project_WinForm\\FinalProject\\UI\\uc_DMThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:40:25.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "uc_DMThanhToan.cs",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_DMThanhToan.cs",
+              "RelativeDocumentMoniker": "FinalProject\\UI\\uc_DMThanhToan.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_DMThanhToan.cs",
+              "RelativeToolTip": "FinalProject\\UI\\uc_DMThanhToan.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAswJMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:06:47.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form_ThanhToan.cs [Design]",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Form\\Form_ThanhToan.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Form\\Form_ThanhToan.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Final_Project_WinForm\\FinalProject\\Form\\Form_ThanhToan.cs [Design]",
+              "RelativeToolTip": "..\\Final_Project_WinForm\\FinalProject\\Form\\Form_ThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:07:25.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form_ThanhToan.cs",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Form\\Form_ThanhToan.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Form\\Form_ThanhToan.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Form\\Form_ThanhToan.cs",
+              "RelativeToolTip": "FinalProject\\Form\\Form_ThanhToan.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAnwO4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:07:30.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Form1.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Form1.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:26:07.352Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
