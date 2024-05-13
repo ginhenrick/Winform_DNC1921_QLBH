@@ -31,23 +31,24 @@
             this.components = new System.ComponentModel.Container();
             this.barManager1 = new DevExpress.XtraBars.BarManager(this.components);
             this.bar1 = new DevExpress.XtraBars.Bar();
+            this.barButtonItem1 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem2 = new DevExpress.XtraBars.BarButtonItem();
             this.barDockControlTop = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlBottom = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlLeft = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
             this.splitContainerControl1 = new DevExpress.XtraEditors.SplitContainerControl();
             this.splitContainerControl2 = new DevExpress.XtraEditors.SplitContainerControl();
-            this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
             this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
+            this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
             this.splitContainerControl3 = new DevExpress.XtraEditors.SplitContainerControl();
             this.groupControl3 = new DevExpress.XtraEditors.GroupControl();
-            this.groupControl4 = new DevExpress.XtraEditors.GroupControl();
-            this.barButtonItem1 = new DevExpress.XtraBars.BarButtonItem();
-            this.barButtonItem2 = new DevExpress.XtraBars.BarButtonItem();
-            this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
-            this.labelControl2 = new DevExpress.XtraEditors.LabelControl();
             this.labelControl3 = new DevExpress.XtraEditors.LabelControl();
+            this.groupControl4 = new DevExpress.XtraEditors.GroupControl();
             this.labelControl4 = new DevExpress.XtraEditors.LabelControl();
+            this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
+            this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
+            this.labelControl5 = new DevExpress.XtraEditors.LabelControl();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl1.Panel1)).BeginInit();
@@ -61,8 +62,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl2.Panel2)).BeginInit();
             this.splitContainerControl2.Panel2.SuspendLayout();
             this.splitContainerControl2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
-            this.groupControl1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).BeginInit();
             this.groupControl2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl3)).BeginInit();
@@ -75,6 +74,8 @@
             this.groupControl3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl4)).BeginInit();
             this.groupControl4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
+            this.groupControl1.SuspendLayout();
             this.SuspendLayout();
             // 
             // barManager1
@@ -95,12 +96,24 @@
             // 
             this.bar1.BarName = "Tools";
             this.bar1.DockCol = 0;
-            this.bar1.DockRow = 1;
+            this.bar1.DockRow = 0;
             this.bar1.DockStyle = DevExpress.XtraBars.BarDockStyle.Top;
             this.bar1.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
             new DevExpress.XtraBars.LinkPersistInfo(this.barButtonItem1),
             new DevExpress.XtraBars.LinkPersistInfo(this.barButtonItem2)});
             this.bar1.Text = "Tools";
+            // 
+            // barButtonItem1
+            // 
+            this.barButtonItem1.Caption = "Xuất báo cáo Doanh Thu";
+            this.barButtonItem1.Id = 0;
+            this.barButtonItem1.Name = "barButtonItem1";
+            // 
+            // barButtonItem2
+            // 
+            this.barButtonItem2.Caption = "Xuất báo cáo Excel";
+            this.barButtonItem2.Id = 1;
+            this.barButtonItem2.Name = "barButtonItem2";
             // 
             // barDockControlTop
             // 
@@ -173,17 +186,6 @@
             this.splitContainerControl2.SplitterPosition = 497;
             this.splitContainerControl2.TabIndex = 0;
             // 
-            // groupControl1
-            // 
-            this.groupControl1.Controls.Add(this.labelControl1);
-            this.groupControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.groupControl1.Location = new System.Drawing.Point(0, 0);
-            this.groupControl1.Name = "groupControl1";
-            this.groupControl1.Size = new System.Drawing.Size(497, 233);
-            this.groupControl1.TabIndex = 0;
-            this.groupControl1.Text = "Thông số Hóa Đơn";
-            this.groupControl1.Paint += new System.Windows.Forms.PaintEventHandler(this.groupControl1_Paint);
-            // 
             // groupControl2
             // 
             this.groupControl2.Controls.Add(this.labelControl2);
@@ -193,6 +195,15 @@
             this.groupControl2.Size = new System.Drawing.Size(556, 233);
             this.groupControl2.TabIndex = 0;
             this.groupControl2.Text = "Thông số Khách Hàng";
+            // 
+            // labelControl2
+            // 
+            this.labelControl2.Location = new System.Drawing.Point(24, 86);
+            this.labelControl2.Name = "labelControl2";
+            this.labelControl2.Size = new System.Drawing.Size(527, 16);
+            this.labelControl2.TabIndex = 1;
+            this.labelControl2.Text = "Khung này sẽ để thông tin về tổng cộng khách hàng đã thêm và phân loại ra loại kh" +
+    "ách hàng";
             // 
             // splitContainerControl3
             // 
@@ -223,6 +234,15 @@
             this.groupControl3.TabIndex = 0;
             this.groupControl3.Text = "Thông số Doanh Thu";
             // 
+            // labelControl3
+            // 
+            this.labelControl3.Location = new System.Drawing.Point(33, 149);
+            this.labelControl3.Name = "labelControl3";
+            this.labelControl3.Size = new System.Drawing.Size(423, 32);
+            this.labelControl3.TabIndex = 2;
+            this.labelControl3.Text = "Khung này sẽ để thông tin về tổng cộng đã bán được bao nhiêu hàng và\r\nthu thập bằ" +
+    "ng cách cộng lại tất cả THANHTIEN của table LICHSUGIAODICH";
+            // 
             // groupControl4
             // 
             this.groupControl4.Controls.Add(this.labelControl4);
@@ -233,44 +253,6 @@
             this.groupControl4.TabIndex = 0;
             this.groupControl4.Text = "Thông số Lợi nhuận";
             // 
-            // barButtonItem1
-            // 
-            this.barButtonItem1.Caption = "Xuất báo cáo Doanh Thu";
-            this.barButtonItem1.Id = 0;
-            this.barButtonItem1.Name = "barButtonItem1";
-            // 
-            // barButtonItem2
-            // 
-            this.barButtonItem2.Caption = "Xuất báo cáo Excel";
-            this.barButtonItem2.Id = 1;
-            this.barButtonItem2.Name = "barButtonItem2";
-            // 
-            // labelControl1
-            // 
-            this.labelControl1.Location = new System.Drawing.Point(85, 86);
-            this.labelControl1.Name = "labelControl1";
-            this.labelControl1.Size = new System.Drawing.Size(347, 16);
-            this.labelControl1.TabIndex = 0;
-            this.labelControl1.Text = "Khung này sẽ để thông tin về tổng cộng số hóa đơn đã lập ra";
-            // 
-            // labelControl2
-            // 
-            this.labelControl2.Location = new System.Drawing.Point(24, 86);
-            this.labelControl2.Name = "labelControl2";
-            this.labelControl2.Size = new System.Drawing.Size(527, 16);
-            this.labelControl2.TabIndex = 1;
-            this.labelControl2.Text = "Khung này sẽ để thông tin về tổng cộng khách hàng đã thêm và phân loại ra loại kh" +
-    "ách hàng";
-            // 
-            // labelControl3
-            // 
-            this.labelControl3.Location = new System.Drawing.Point(33, 149);
-            this.labelControl3.Name = "labelControl3";
-            this.labelControl3.Size = new System.Drawing.Size(423, 32);
-            this.labelControl3.TabIndex = 2;
-            this.labelControl3.Text = "Khung này sẽ để thông tin về tổng cộng đã bán được bao nhiêu hàng và\r\nthu thập bằ" +
-    "ng cách cộng lại tất cả THANHTIEN của table LICHSUGIAODICH";
-            // 
             // labelControl4
             // 
             this.labelControl4.Location = new System.Drawing.Point(58, 149);
@@ -279,6 +261,34 @@
             this.labelControl4.TabIndex = 3;
             this.labelControl4.Text = "Khung này sẽ để thông tin về lợi nhuận thu được bằng cách \r\nlấy tổng số tiền bán " +
     "được ở mức giá bán\r\nvà trừ đi cho Giá nhập thì ra lợi nhuận ";
+            // 
+            // groupControl1
+            // 
+            this.groupControl1.Controls.Add(this.labelControl5);
+            this.groupControl1.Controls.Add(this.labelControl1);
+            this.groupControl1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.groupControl1.Location = new System.Drawing.Point(0, 0);
+            this.groupControl1.Name = "groupControl1";
+            this.groupControl1.Size = new System.Drawing.Size(497, 233);
+            this.groupControl1.TabIndex = 0;
+            this.groupControl1.Text = "Thông số Hóa Đơn";
+            this.groupControl1.Paint += new System.Windows.Forms.PaintEventHandler(this.groupControl1_Paint);
+            // 
+            // labelControl1
+            // 
+            this.labelControl1.Location = new System.Drawing.Point(76, 72);
+            this.labelControl1.Name = "labelControl1";
+            this.labelControl1.Size = new System.Drawing.Size(90, 16);
+            this.labelControl1.TabIndex = 0;
+            this.labelControl1.Text = "Số hóa đơn bán";
+            // 
+            // labelControl5
+            // 
+            this.labelControl5.Location = new System.Drawing.Point(185, 72);
+            this.labelControl5.Name = "labelControl5";
+            this.labelControl5.Size = new System.Drawing.Size(155, 16);
+            this.labelControl5.TabIndex = 1;
+            this.labelControl5.Text = "lbl hiển thị tổng số hóa đơn";
             // 
             // uc_BCDoanhThu
             // 
@@ -304,9 +314,6 @@
             this.splitContainerControl2.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainerControl2)).EndInit();
             this.splitContainerControl2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
-            this.groupControl1.ResumeLayout(false);
-            this.groupControl1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).EndInit();
             this.groupControl2.ResumeLayout(false);
             this.groupControl2.PerformLayout();
@@ -322,6 +329,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.groupControl4)).EndInit();
             this.groupControl4.ResumeLayout(false);
             this.groupControl4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
+            this.groupControl1.ResumeLayout(false);
+            this.groupControl1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -337,16 +347,17 @@
         private DevExpress.XtraBars.BarDockControl barDockControlRight;
         private DevExpress.XtraEditors.SplitContainerControl splitContainerControl1;
         private DevExpress.XtraEditors.SplitContainerControl splitContainerControl2;
-        private DevExpress.XtraEditors.GroupControl groupControl1;
         private DevExpress.XtraEditors.GroupControl groupControl2;
         private DevExpress.XtraEditors.SplitContainerControl splitContainerControl3;
         private DevExpress.XtraEditors.GroupControl groupControl3;
         private DevExpress.XtraEditors.GroupControl groupControl4;
         private DevExpress.XtraBars.BarButtonItem barButtonItem1;
         private DevExpress.XtraBars.BarButtonItem barButtonItem2;
-        private DevExpress.XtraEditors.LabelControl labelControl1;
         private DevExpress.XtraEditors.LabelControl labelControl2;
         private DevExpress.XtraEditors.LabelControl labelControl3;
         private DevExpress.XtraEditors.LabelControl labelControl4;
+        private DevExpress.XtraEditors.GroupControl groupControl1;
+        private DevExpress.XtraEditors.LabelControl labelControl1;
+        private DevExpress.XtraEditors.LabelControl labelControl5;
     }
 }
