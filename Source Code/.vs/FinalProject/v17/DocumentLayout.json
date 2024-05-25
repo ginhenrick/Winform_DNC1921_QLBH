@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form\\form_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|d:\\winforms\\dnc1921_finalproject\\source code\\finalproject\\ui\\uc_bchangton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\ui\\uc_bchangton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ui\\uc_bchangton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|d:\\winforms\\dnc1921_finalproject\\source code\\finalproject\\ui\\uc_hdban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\ui\\uc_hdban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\ui\\uc_hdban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -59,7 +59,7 @@
       "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form\\form_thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|d:\\winforms\\dnc1921_finalproject\\source code\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|D:\\Winforms\\DNC1921_FinalProject\\Source Code\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A19A8763-DCDD-42FB-9A8D-1D70EE55F79B}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -109,8 +109,7 @@
               "ViewState": "AQIAADIAAAAAAAAAAAArwDoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T20:28:07.948Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -123,31 +122,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-13T07:28:15.814Z",
               "IsPinned": true,
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "uc_HDBan.cs",
-              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_HDBan.cs",
-              "RelativeDocumentMoniker": "FinalProject\\UI\\uc_HDBan.cs",
-              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_HDBan.cs",
-              "RelativeToolTip": "FinalProject\\UI\\uc_HDBan.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:35:47.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "uc_BCHangTon.cs [Design]",
-              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_BCHangTon.cs",
-              "RelativeDocumentMoniker": "FinalProject\\UI\\uc_BCHangTon.cs",
-              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_BCHangTon.cs [Design]",
-              "RelativeToolTip": "FinalProject\\UI\\uc_BCHangTon.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T07:33:16.287Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -168,6 +142,29 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "uc_HDBan.cs",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_HDBan.cs",
+              "RelativeDocumentMoniker": "FinalProject\\UI\\uc_HDBan.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_HDBan.cs",
+              "RelativeToolTip": "FinalProject\\UI\\uc_HDBan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:35:47.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "uc_BCHangTon.cs [Design]",
+              "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_BCHangTon.cs",
+              "RelativeDocumentMoniker": "FinalProject\\UI\\uc_BCHangTon.cs",
+              "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_BCHangTon.cs [Design]",
+              "RelativeToolTip": "FinalProject\\UI\\uc_BCHangTon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:33:16.287Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Program.cs",
@@ -176,8 +173,7 @@
               "RelativeToolTip": "FinalProject\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T20:49:54.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T20:49:54.742Z"
             },
             {
               "$type": "Document",
@@ -188,8 +184,7 @@
               "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Form\\Form_DangNhap.cs [Design]",
               "RelativeToolTip": "FinalProject\\Form\\Form_DangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T20:49:36.381Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-12T20:49:36.381Z"
             },
             {
               "$type": "Document",
@@ -201,8 +196,7 @@
               "RelativeToolTip": "FinalProject\\UI\\uc_BCDoanhThu.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAtwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T19:37:20.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T19:37:20.666Z"
             },
             {
               "$type": "Document",
@@ -213,8 +207,7 @@
               "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_BCDoanhThu.cs [Design]",
               "RelativeToolTip": "FinalProject\\UI\\uc_BCDoanhThu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T19:34:50.499Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-12T19:34:50.499Z"
             },
             {
               "$type": "Document",
@@ -226,8 +219,7 @@
               "RelativeToolTip": "FinalProject\\UI\\uc_DMHangHoa.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAvwCYAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:21:19.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T15:21:19.493Z"
             },
             {
               "$type": "Document",
@@ -238,8 +230,7 @@
               "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\HOADONBANDataSet.xsd",
               "RelativeToolTip": "FinalProject\\HOADONBANDataSet.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2024-05-12T18:04:43.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T18:04:43.114Z"
             },
             {
               "$type": "Document",
@@ -273,8 +264,7 @@
               "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\HoaDonReportDataSet.xsd",
               "RelativeToolTip": "FinalProject\\HoaDonReportDataSet.xsd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2024-05-12T13:02:07.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T13:02:07.611Z"
             },
             {
               "$type": "Document",
@@ -285,8 +275,7 @@
               "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Report_HoaDon.cs [Design]",
               "RelativeToolTip": "FinalProject\\Report_HoaDon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T12:56:43.019Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-12T12:56:43.019Z"
             },
             {
               "$type": "Document",
@@ -297,8 +286,7 @@
               "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\UI\\uc_DMThanhToan.cs [Design]",
               "RelativeToolTip": "FinalProject\\UI\\uc_DMThanhToan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T06:40:25.249Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-11T06:40:25.249Z"
             },
             {
               "$type": "Document",
@@ -310,8 +298,7 @@
               "RelativeToolTip": "FinalProject\\UI\\uc_DMThanhToan.cs",
               "ViewState": "AQIAAI4AAAAAAAAAAAAswJMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T08:06:47.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T08:06:47.009Z"
             },
             {
               "$type": "Document",
@@ -322,8 +309,7 @@
               "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Form\\Form_ThanhToan.cs [Design]",
               "RelativeToolTip": "FinalProject\\Form\\Form_ThanhToan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T07:07:25.564Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-11T07:07:25.564Z"
             },
             {
               "$type": "Document",
@@ -335,8 +321,7 @@
               "RelativeToolTip": "FinalProject\\Form\\Form_ThanhToan.cs",
               "ViewState": "AQIAAL0AAAAAAAAAAAAnwO4AAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T07:07:30.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T07:07:30.465Z"
             },
             {
               "$type": "Document",
@@ -347,8 +332,7 @@
               "ToolTip": "D:\\Winforms\\DNC1921_FinalProject\\Source Code\\FinalProject\\Form1.cs [Design]",
               "RelativeToolTip": "FinalProject\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T20:26:07.352Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-08T20:26:07.352Z"
             }
           ]
         }
